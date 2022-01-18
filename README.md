@@ -8,7 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/ElMarcelFarias">
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ElMarcelFarias&layout=compact)](https://github.com/ElMarcelFarias/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMarcelFarias&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
