@@ -1,4 +1,4 @@
-### Olá, eu sou Marcel Leite de Farias
+### Olá, eu sou Marcel Leite de Farias 😃
 
 - 🔭 Desenvolvendo projetos com JavaScript / front-end.
 - 🌱 Estudando JavaScript
