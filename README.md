@@ -1,5 +1,5 @@
 ### Olá, eu sou Marcel Leite de Farias 😃
-- 🔭 Desenvolvendo projetos com JavaScript / HTML / CSS (front-end).
+- 🔭 Desenvolvendo projetos com JavaScript / HTML / CSS e PHP.
 - 🌱 Estudando JavaScript/PHP
 - 😄 Pronouns: ele/dele
 
