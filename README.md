@@ -2,6 +2,7 @@
 - 🔭 Desenvolvendo projetos com Swift
 - 🌱 Estudando Swift
 - 💻 Interesse em Mobile IOS (Swift)
+- 👨‍💻 Atualmente trabalhando com Desenvolvimento Web (PHP)
 - 😄 Pronouns: ele/dele
 
 <br>
