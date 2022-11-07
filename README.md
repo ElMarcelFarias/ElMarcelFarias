@@ -1,4 +1,4 @@
-### Olá, eu sou Marcel Leite de Farias 😃
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Marcel+Leite+de+Farias.;I'm+19+years+old;I'm+Full-Stack+Developer;and+Studying+Mobile+IOS+with+Swift)](https://git.io/typing-svg)
 - 🔭 Desenvolvendo projetos com Swift
 - 📱 Estudando Swift
 - 💻 Interesse em Mobile IOS (Swift)
