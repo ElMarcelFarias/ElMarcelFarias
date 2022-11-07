@@ -1,11 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Marcel+Leite+de+Farias.;I'm+19+years+old;I'm+Full-Stack+Developer;and+Studying+Mobile+IOS+with+Swift)](https://git.io/typing-svg)
-- 🔭 Desenvolvendo projetos com Swift
-- 📱 Estudando Swift
-- 💻 Interesse em Mobile IOS (Swift)
-- 👨‍💻 Atualmente trabalhando com Desenvolvimento Web (PHP)
-- 😄 Pronouns: ele/dele
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Marcel+Leite+de+Farias.;I'm+19+years+old;I'm+Full-Stack+Developer+(PHP%2C+JQuery);Currently+studying+Mobile+IOS+with+Swift+;Ol%C3%A1%2C+meu+nome+%C3%A9+Marcel+Leite+de+Farias;Tenho+19+anos+de+idade;Sou+Desenvolvedor+Full-Stack+(PHP%2C+Jquery);Atualmente+estudando+Mobile+IOS+com+Swift)](https://git.io/typing-svg)
 <br>
+
+
 
 <div align="center">
   <a href="https://github.com/ElMarcelFarias">
