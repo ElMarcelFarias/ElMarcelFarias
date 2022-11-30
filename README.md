@@ -28,3 +28,32 @@
 </div>
   
 ![Snake animation](https://github.com/ElMarcelFarias/ElMarcelFarias/blob/output/github-contribution-grid-snake.svg)
+  
+```JavaScript
+const aboutMe = {
+  name: 'Marcel Leite de Farias',
+  age: '19',
+  rank: 'Web Developer PHP/JS',
+  studying: 'IOS Development with Swift'
+  country: 'Brazil',
+  hobbies: [
+    'play games',
+    'watch movies',
+    'listen to music',
+  ],
+  softSkills: [
+    'communication',
+    'teamwork',
+    'leadership',
+    'organization'
+  ]
+};
+
+function contactMe() {
+  return {
+    email: 'marcel.leitefarias@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/marcel-leite-de-farias/',
+    whatsapp: '+55 47 99928-0278',
+  }
+}
+```
