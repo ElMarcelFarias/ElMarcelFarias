@@ -35,6 +35,7 @@ const aboutMe = {
   age: '19',
   rank: 'Web Developer PHP/JS',
   studying: 'IOS Development with Swift',
+  studying: 'Análise e Desenvolvimento de Sistemas - UniSenai',
   country: 'Brazil',
   hobbies: [
     'play games',
