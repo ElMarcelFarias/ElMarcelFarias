@@ -54,8 +54,7 @@ func contactMe() -> [String: String] {
     
     return  [
         "email": "marcel.leitefarias@gmail.com",
-        "linkedin": "https://www.linkedin.com/in/marcel-leite-de-farias",
-        "whatssap": "+55 47 99928-0278"
+        "linkedin": "https://www.linkedin.com/in/marcel-leite-de-farias"
     ]
 }
 
