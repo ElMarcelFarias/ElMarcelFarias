@@ -56,7 +56,7 @@ var contactMe: [String: String] = [
 ]
     
 
-for (key,value) in contact {
+for (key,value) in contactMe {
     print("\(key) => \(value)")
 }
 ```
