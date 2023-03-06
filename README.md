@@ -30,7 +30,7 @@
 ![Snake animation](https://github.com/ElMarcelFarias/ElMarcelFarias/blob/output/github-contribution-grid-snake.svg)
   
 ```JavaScript
-const aboutMe = {
+let aboutMe = {
   name: 'Marcel Leite de Farias',
   age: '19',
   rank: 'Web Developer PHP/JS',
