@@ -50,15 +50,11 @@ const aboutMe = {
   ]
 };
 
-func contactMe() -> [String: String] {
+var contactMe: [String: String] = [
+    "email": "marcel.leitefarias@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/marcel-leite-de-farias"
+]
     
-    return  [
-        "email": "marcel.leitefarias@gmail.com",
-        "linkedin": "https://www.linkedin.com/in/marcel-leite-de-farias"
-    ]
-}
-
-var contact = contactMe()
 
 for (key,value) in contact {
     print("\(key) => \(value)")
