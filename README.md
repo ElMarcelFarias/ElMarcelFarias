@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Marcel+Leite+de+Farias.;I'm+19+years+old;I'm+Full-Stack+Developer+(PHP%2C+JQuery);Currently+studying+Mobile+IOS+with+Swift+;Ol%C3%A1%2C+meu+nome+%C3%A9+Marcel+Leite+de+Farias;Tenho+19+anos+de+idade;Sou+Desenvolvedor+Full-Stack+(PHP%2C+Jquery);Atualmente+estudando+Mobile+IOS+com+Swift)](https://git.io/typing-svg)
 <br>
 
-<!--
+
 
 <div align="center">
   <a href="https://github.com/ElMarcelFarias">
@@ -9,7 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMarcelFarias&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=dark"/>
 </div>
 
- -->
+
   
 
 <br>
