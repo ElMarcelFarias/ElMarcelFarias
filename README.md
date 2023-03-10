@@ -38,7 +38,7 @@ let aboutMe = {
   rank: 'Web Developer PHP/JS, iOS Developer Swift',
   studying: 'IOS Development with Swift - DIO',
   studying: 'Análise e Desenvolvimento de Sistemas - UniSenai',
-  country: 'Brazil',
+  country: 'Brasil',
   hobbies: [
     'play games',
     'watch movies',
