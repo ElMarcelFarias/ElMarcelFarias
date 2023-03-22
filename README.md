@@ -36,7 +36,7 @@
 let aboutMe = {
   name: 'Marcel Leite de Farias',
   age: '19',
-  rank: 'Web Developer PHP/JS, iOS Developer Swift',
+  rank: 'Web Developer PHP/JS && iOS Developer Swift',
   studying: 'IOS Development with Swift - DIO',
   studying: 'Análise e Desenvolvimento de Sistemas - UniSenai',
   country: 'Brasil',
