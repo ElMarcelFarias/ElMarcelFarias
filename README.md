@@ -29,9 +29,10 @@
   <a href = "mailto:marcel.leitefarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcel-leite-de-farias-38b62b220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-![Snake animation](https://github.com/ElMarcelFarias/ElMarcelFarias/blob/output/github-contribution-grid-snake.svg)
-  
+
+ 
+<!--![Snake animation](https://github.com/ElMarcelFarias/ElMarcelFarias/blob/output/github-contribution-grid-snake.svg)
+-->  
 ```JavaScript
 let aboutMe = {
   name: 'Marcel Leite de Farias',
