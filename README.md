@@ -14,7 +14,7 @@
 
 <br>
 
-  <h2 align="center">Linguagens e tecnologias</h2>
+  <h2 align="center">Linguagens e tecnologias </h2>
    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,swift,mysql,jquery,git styledcomponents,git&theme=light" />
