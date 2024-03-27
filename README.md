@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Marcel+Leite+de+Farias.;I'm+20+years+old;I'm+iOS+Developer+(Swift%2C+iOS);Ol%C3%A1%2C+meu+nome+%C3%A9+Marcel+Leite+de+Farias;Tenho+20+anos+de+idade;Sou+Desenvolvedor+iOS+(Swift%2C+iOS);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Marcel+Leite+de+Farias.;I'm+20+years+old;I'm+Backend+Developer+(PHP%2C+Laravel);Ol%C3%A1%2C+meu+nome+%C3%A9+Marcel+Leite+de+Farias;Tenho+20+anos+de+idade;Sou+Desenvolvedor+Backend+(PHP%2C+Laravel);)](https://git.io/typing-svg)
 <br>
 
 
@@ -17,7 +17,7 @@
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,swift,mysql,jquery,git styledcomponents,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,swift,mysql,jquery,git styledcomponents,git&theme=light" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
 let aboutMe = {
   name: 'Marcel Leite de Farias',
   age: '20',
-  rank: 'Web Developer PHP/JS/C#/Java && iOS Developer Swift',
-  rank: 'IOS Developer',
+  rank: 'Backend Developer PHP/JS/C#/Java && iOS Developer Swift',
+  rank: 'Backend Developer - Laravel',
   studying: 'Análise e Desenvolvimento de Sistemas - UniSenai',
   country: 'Brasil',
   hobbies: [
