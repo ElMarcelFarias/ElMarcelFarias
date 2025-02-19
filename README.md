@@ -36,7 +36,7 @@
 ```JavaScript
 let aboutMe = {
   name: 'Marcel Leite de Farias',
-  age: '20',
+  age: '21',
   rank: 'Backend Developer PHP/JS/C#/Java && iOS Developer Swift',
   rank: 'Backend Developer - Laravel',
   studying: 'Análise e Desenvolvimento de Sistemas - UniSenai',
