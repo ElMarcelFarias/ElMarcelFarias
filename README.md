@@ -33,34 +33,33 @@
  
 <!--![Snake animation](https://github.com/ElMarcelFarias/ElMarcelFarias/blob/output/github-contribution-grid-snake.svg)
 -->  
-```JavaScript
-let aboutMe = {
-  name: 'Marcel Leite de Farias',
-  age: '21',
-  rank: 'Backend Developer PHP/JS/C#/Java && iOS Developer Swift',
-  rank: 'Backend Developer - Laravel',
-  studying: 'Análise e Desenvolvimento de Sistemas - UniSenai',
-  country: 'Brasil',
-  hobbies: [
-    'play games',
-    'watch movies',
-    'listen to music',
-  ],
-  softSkills: [
-    'communication',
-    'teamwork',
-    'leadership',
-    'organization'
-  ]
-};
+```PHP
+$aboutMe = [
+    'name' => 'Marcel Leite de Farias',
+    'age' => '21',
+    'rank' => 'Backend Developer PHP/JS/C#/Java && iOS Developer Swift',
+    'rankMain' => 'Backend Developer - Larave/Lumen/CodeIgniter/Swoolel',
+    'studying' => 'Análise e Desenvolvimento de Sistemas - UniSenai',
+    'country' => 'Brasil',
+    'hobbies' => [
+        'play games',
+        'watch movies',
+        'listen to music',
+    ],
+    'softSkills' => [
+        'communication',
+        'teamwork',
+        'leadership',
+        'organization',
+    ],
+];
 
-var contactMe: [String: String] = [
-    "email": "marcel.leitefarias@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/marcel-leite-de-farias"
-]
-    
+$contactMe = [
+    "email" => "marcel.leitefarias@gmail.com",
+    "linkedin" => "https://www.linkedin.com/in/marcel-leite-de-farias"
+];
 
-for (key,value) in contactMe {
-    print("\(key) => \(value)")
+foreach ($contactMe as $key => $value) {
+    echo "$key => $value\n";
 }
 ```
